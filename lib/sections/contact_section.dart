@@ -59,7 +59,7 @@ Card contactDetail() {
               style: TextStyle(fontWeight: FontWeight.bold),
             ),
             subtitle: Text(
-              "+62 81285367852",
+              "+62 877 3033 1009",
               style: TextStyle(color: Colors.black),
             ),
             dense: true,
@@ -73,7 +73,7 @@ Card contactDetail() {
               style: TextStyle(fontWeight: FontWeight.bold),
             ),
             subtitle: Text(
-              "muarifmzx@gmail.com",
+              "kubiltu@gmail.com",
               style: TextStyle(color: Colors.black),
             ),
             dense: true,
@@ -87,7 +87,7 @@ Card contactDetail() {
               style: TextStyle(fontWeight: FontWeight.bold),
             ),
             subtitle: Text(
-              "Muariff07",
+              "munif_sptr",
               style: TextStyle(color: Colors.black),
             ),
             dense: true,

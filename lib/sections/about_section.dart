@@ -19,7 +19,7 @@ class AboutSection extends StatelessWidget {
         child: Container(
           padding: const EdgeInsets.all(30),
           child: const Text(
-            "Muarif Subekhi is someone with diverse interests and a strong personality. He enjoys hobbies such as fishing, playing online games, and traveling. His passion for these activities allows him to relax and explore various places and experiences. On the other hand, Muarif is also known as a hardworking and disciplined individual. These traits help him achieve his life goals with determination and perseverance.",
+            "Munif Saputra, tinggal di Prigi 01/02, Padamara, Purbalingga. Saya adalah sosok yang penuh semangat dan dedikasi dalam setiap aktivitasnya. Ia selalu siap menghadapi tantangan dengan antusiasme dan optimisme yang tinggi.",
             style: TextStyle(color: Colors.black),
           ),
         ),

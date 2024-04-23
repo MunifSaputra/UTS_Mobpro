@@ -48,7 +48,7 @@ class _ProfilePageState extends State<ProfilePage> {
       length: tabs.length,
       child: Scaffold(
         appBar: AppBar(
-          backgroundColor: Color.fromARGB(255, 254, 44, 2),
+          backgroundColor: Color.fromARGB(255, 7, 196, 199),
           titleTextStyle: const TextStyle(
             color: Colors.white,
           ),
@@ -94,7 +94,7 @@ class _ProfilePageState extends State<ProfilePage> {
         bottom: 5.0,
       ),
       child: Text(
-        "Fishing - Gaming - Travelling",
+        "Gaming - Travelling",
         style: TextStyle(
           fontWeight: FontWeight.normal,
           fontSize: 12,
@@ -179,12 +179,12 @@ class _ProfilePageState extends State<ProfilePage> {
         color: Colors.red,
       ),
       width: 125,
-      height: 150,
+      height: 125,
       alignment: Alignment.center,
       child: CircleAvatar(
         radius: 100,
         backgroundColor: Colors.transparent,
-        backgroundImage: AssetImage('img/muarif.jpg'),
+        backgroundImage: AssetImage('img/munif.jpg'),
       ),
     );
   }
